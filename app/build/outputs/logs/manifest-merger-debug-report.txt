@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/b03cb1368dea8e80cec27ebd12a0fc2d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/db818a7fb88b45701c15c1ec828e7ba6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0-rc1.aar/4176a323eb7de6a4ef2b2fbd8e119d63/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-rc1.aar/356b8f940dd18b27ef0b166fce08c86f/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-rc1.aar/fea81b812c89d5af29bf3c84537cebaa/AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/tyler/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/eb4f333c9ddec7d1d06b4be8c5a75d2e/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/8d8e84e0858df0ecc90b44eedb22e1d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/7fce026d6fc1a104fc5335a3db786181/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/1b29e4876591eeccf9cf95e42e50acd1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/b1f4e6055c74ede2c8288b532973665d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/b6db4691d27abd8d3c06d39f1b5c1c72/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/c8df79ccadc111bdf366e4de24b53571/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db-framework:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0-rc1.aar/074e044f0b594418cd339a09c676b400/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/db-1.0.0-rc1.aar/299fde22fddc9b9a09308b4f400815f3/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.core:runtime:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-rc1.aar/890cb75ecceda9dbaf646a255f3e56e6/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/tyler/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/c8acefee87884fe0547e8023f396dbf9/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:11-55
+		INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:3:11-69
+application
+ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:5:5-28:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-rc1.aar/fea81b812c89d5af29bf3c84537cebaa/AndroidManifest.xml:24:5-30:19
+MERGED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-rc1.aar/fea81b812c89d5af29bf3c84537cebaa/AndroidManifest.xml:24:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/tyler/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/eb4f333c9ddec7d1d06b4be8c5a75d2e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/tyler/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/eb4f333c9ddec7d1d06b4be8c5a75d2e/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:8:9-25
+	android:roundIcon
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:11:9-40
+activity#edu.chapman.cpsc356.routegenerator.activities.RouteListActivity
+ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:12:19-97
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:16:27-74
+activity#edu.chapman.cpsc356.routegenerator.activities.RouteActivity
+ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:19:9-21:107
+	android:parentActivityName
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:21:13-105
+	android:name
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:20:13-87
+activity#edu.chapman.cpsc356.routegenerator.activities.RoutePagerActivity
+ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:22:9-25:20
+	android:parentActivityName
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:24:13-105
+	android:name
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:23:13-92
+activity#edu.chapman.cpsc356.routegenerator.activities.SettingsActivity
+ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:26:9-27:20
+	android:parentActivityName
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:26:97-189
+	android:name
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:26:19-96
+uses-sdk
+INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/b03cb1368dea8e80cec27ebd12a0fc2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/b03cb1368dea8e80cec27ebd12a0fc2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/db818a7fb88b45701c15c1ec828e7ba6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/db818a7fb88b45701c15c1ec828e7ba6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0-rc1.aar/4176a323eb7de6a4ef2b2fbd8e119d63/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:rxjava2:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0-rc1.aar/4176a323eb7de6a4ef2b2fbd8e119d63/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-rc1.aar/356b8f940dd18b27ef0b166fce08c86f/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-rc1.aar/356b8f940dd18b27ef0b166fce08c86f/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-rc1.aar/fea81b812c89d5af29bf3c84537cebaa/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-rc1.aar/fea81b812c89d5af29bf3c84537cebaa/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/tyler/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/eb4f333c9ddec7d1d06b4be8c5a75d2e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/tyler/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/eb4f333c9ddec7d1d06b4be8c5a75d2e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/8d8e84e0858df0ecc90b44eedb22e1d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.0.aar/8d8e84e0858df0ecc90b44eedb22e1d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/7fce026d6fc1a104fc5335a3db786181/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.0.aar/7fce026d6fc1a104fc5335a3db786181/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/1b29e4876591eeccf9cf95e42e50acd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.0.aar/1b29e4876591eeccf9cf95e42e50acd1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/b1f4e6055c74ede2c8288b532973665d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.0.aar/b1f4e6055c74ede2c8288b532973665d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/b6db4691d27abd8d3c06d39f1b5c1c72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.0.aar/b6db4691d27abd8d3c06d39f1b5c1c72/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/c8df79ccadc111bdf366e4de24b53571/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.0.aar/c8df79ccadc111bdf366e4de24b53571/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0-rc1.aar/074e044f0b594418cd339a09c676b400/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0-rc1.aar/074e044f0b594418cd339a09c676b400/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/db-1.0.0-rc1.aar/299fde22fddc9b9a09308b4f400815f3/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/db-1.0.0-rc1.aar/299fde22fddc9b9a09308b4f400815f3/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-rc1.aar/890cb75ecceda9dbaf646a255f3e56e6/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-rc1.aar/890cb75ecceda9dbaf646a255f3e56e6/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/tyler/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/c8acefee87884fe0547e8023f396dbf9/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/tyler/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/c8acefee87884fe0547e8023f396dbf9/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
+provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-rc1.aar/fea81b812c89d5af29bf3c84537cebaa/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-rc1.aar/fea81b812c89d5af29bf3c84537cebaa/AndroidManifest.xml:27:13-68
+	android:multiprocess
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-rc1.aar/fea81b812c89d5af29bf3c84537cebaa/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-rc1.aar/fea81b812c89d5af29bf3c84537cebaa/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-rc1.aar/fea81b812c89d5af29bf3c84537cebaa/AndroidManifest.xml:26:13-83

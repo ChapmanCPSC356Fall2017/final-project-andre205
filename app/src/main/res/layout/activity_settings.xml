@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:orientation="vertical"
+    tools:context="edu.chapman.cpsc356.routegenerator.activities.SettingsActivity">
+
+    <TextView
+        android:id="@+id/tv_title_share"
+        android:layout_alignParentTop="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="?android:listSeparatorTextViewStyle"
+        android:text="@string/title_share_settings"/>
+
+    <EditText
+        android:layout_below="@id/tv_title_share"
+        android:id="@+id/et_share_text"
+        android:layout_width="match_parent"
+        android:hint="@string/hint_share_text"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:onClick="onClickSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="@string/save"
+        android:background="@android:color/holo_blue_dark"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>
