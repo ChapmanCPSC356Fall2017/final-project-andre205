@@ -39,7 +39,6 @@ dependencies {
     compile 'joda-time:joda-time:2.9.9'
     compile 'com.android.support:appcompat-v7:27.0.0'
     compile 'com.android.support:recyclerview-v7:27.0.0'
-
     //Added 11/18/17 for Room
     //https://stackoverflow.com/questions/44046877/how-to-import-room-persistence-library-to-an-android-project
     //change from alpha to rc1
@@ -48,4 +47,6 @@ dependencies {
     compile 'android.arch.lifecycle:extensions:1.0.0-rc1'
     compile 'android.arch.persistence.room:rxjava2:1.0.0-rc1'
     compile 'junit:junit:4.12'
+    implementation 'com.google.code.gson:gson:2.2.4'
+    implementation 'com.squareup.okhttp:okhttp:2.0.0'
 }

@@ -1,4 +1,4 @@
-#Thu Dec 14 14:29:47 PST 2017
-base.0=/Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/build/intermediates/transforms/dexMerger/debug/2
+#Thu Dec 14 15:05:23 PST 2017
+base.0=/Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/build/intermediates/transforms/dexMerger/debug/1
 renamed.0=classes.dex
-file.0=/Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/build/intermediates/transforms/dexMerger/debug/2/classes.dex
+file.0=/Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/build/intermediates/transforms/dexMerger/debug/1/classes.dex

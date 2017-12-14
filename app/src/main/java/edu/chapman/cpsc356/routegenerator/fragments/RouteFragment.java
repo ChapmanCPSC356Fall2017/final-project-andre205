@@ -189,7 +189,9 @@ public class RouteFragment extends Fragment
 
                 String defaultShareText = SharedPrefHelper.GetDefaultShareText(getContext());
 
-                String shareMessage = defaultShareText + "\n" + this.route.getTitle();
+                String shareMessage = defaultShareText + "\n" + this.route.getTitle() +
+                        "\n From " + this.route.getStartLocation() +
+                        " to " + this.route.getDestinationLocation();
 
                 Intent shareIntent = new Intent();
                 shareIntent.setAction(Intent.ACTION_SEND);
