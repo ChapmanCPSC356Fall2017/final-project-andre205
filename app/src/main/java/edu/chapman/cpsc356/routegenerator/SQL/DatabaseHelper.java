@@ -170,7 +170,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         SQLiteDatabase db = this.getWritableDatabase();
 
         db.delete(TABLE_ROUTES,
-                KEY_ID+" = ?",
+                KEY_UUID+" = ?",
                 new String[] { String.valueOf(route.getId()) });
 
         db.close();
