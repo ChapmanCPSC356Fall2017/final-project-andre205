@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-30:12
+ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-33:12
 MERGED from [com.android.support:appcompat-v7:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/b03cb1368dea8e80cec27ebd12a0fc2d/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:27.0.0] /Users/tyler/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.0.0.aar/db818a7fb88b45701c15c1ec828e7ba6/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.persistence.room:rxjava2:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/rxjava2-1.0.0-rc1.aar/4176a323eb7de6a4ef2b2fbd8e119d63/AndroidManifest.xml:17:1-24:12
@@ -20,25 +20,25 @@ MERGED from [android.arch.persistence:db-framework:1.0.0-rc1] /Users/tyler/.grad
 MERGED from [android.arch.persistence:db:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/db-1.0.0-rc1.aar/299fde22fddc9b9a09308b4f400815f3/AndroidManifest.xml:17:1-24:12
 MERGED from [android.arch.core:runtime:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0-rc1.aar/890cb75ecceda9dbaf646a255f3e56e6/AndroidManifest.xml:17:1-24:12
 MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/tyler/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/c8acefee87884fe0547e8023f396dbf9/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-30:12
-INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-33:12
 	package
 		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:11-55
 		INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
-		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-30:12
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-33:12
 		INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
-		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-30:12
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:2:1-33:12
 		INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:3:11-69
 application
-ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:5:5-28:19
+ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:5:5-31:19
 MERGED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-rc1.aar/fea81b812c89d5af29bf3c84537cebaa/AndroidManifest.xml:24:5-30:19
 MERGED from [android.arch.lifecycle:extensions:1.0.0-rc1] /Users/tyler/.gradle/caches/transforms-1/files-1.1/extensions-1.0.0-rc1.aar/fea81b812c89d5af29bf3c84537cebaa/AndroidManifest.xml:24:5-30:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/tyler/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/eb4f333c9ddec7d1d06b4be8c5a75d2e/AndroidManifest.xml:9:5-20
@@ -56,37 +56,43 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/tyle
 	android:theme
 		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:11:9-40
 activity#edu.chapman.cpsc356.routegenerator.activities.RouteListActivity
-ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:12:9-19:20
+	android:screenOrientation
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:13:13-49
 	android:name
 		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:12:19-97
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:14:17-68
+ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:15:17-68
 	android:name
-		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:16:17-76
+ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:17:17-76
 	android:name
-		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:17:27-74
 activity#edu.chapman.cpsc356.routegenerator.activities.RouteActivity
-ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:19:9-21:107
+ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:20:9-23:107
+	android:screenOrientation
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:22:13-49
 	android:parentActivityName
-		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:21:13-105
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:23:13-105
 	android:name
-		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:20:13-87
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:21:13-87
 activity#edu.chapman.cpsc356.routegenerator.activities.RoutePagerActivity
-ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:22:9-25:20
+ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:24:9-28:20
+	android:screenOrientation
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:26:13-49
 	android:parentActivityName
-		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:24:13-105
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:27:13-105
 	android:name
-		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:23:13-92
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:25:13-92
 activity#edu.chapman.cpsc356.routegenerator.activities.SettingsActivity
-ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:26:9-27:20
+ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:29:9-30:20
 	android:parentActivityName
-		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:26:97-189
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:29:97-189
 	android:name
-		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:26:19-96
+		ADDED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml:29:19-96
 uses-sdk
 INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/src/main/AndroidManifest.xml

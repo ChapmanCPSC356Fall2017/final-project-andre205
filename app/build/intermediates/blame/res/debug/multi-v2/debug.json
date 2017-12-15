@@ -1017,22 +1017,6 @@
             ]
         },
         {
-            "outputFile": "/Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/build/intermediates/res/merged/debug/values-v23_values-v23.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/tyler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/b03cb1368dea8e80cec27ebd12a0fc2d/res/values-v23/values-v23.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
-                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
-                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
-                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/build/intermediates/res/merged/debug/values-uz_values-uz.arsc.flat",
             "map": [
                 {
@@ -1060,6 +1044,22 @@
                         "startOffsets": "105,210,314,428,514,625,741,821,900,984,1093,1200,1301,1409,1514,1621,1782,1881",
                         "endColumns": "104,103,113,85,110,115,79,78,83,108,106,100,107,104,106,160,98,83",
                         "endOffsets": "205,309,423,509,620,736,816,895,979,1088,1195,1296,1404,1509,1616,1777,1876,1960"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/build/intermediates/res/merged/debug/values-v23_values-v23.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/tyler/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.0.aar/b03cb1368dea8e80cec27ebd12a0fc2d/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,19,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1277,2079,2206,2311,2426,2533",
+                        "endLines": "2,3,4,5,18,31,32,33,34,35,36",
+                        "endColumns": "134,134,74,86,12,12,126,104,114,106,112",
+                        "endOffsets": "185,320,395,482,1272,2074,2201,2306,2421,2528,2641"
                     }
                 }
             ]

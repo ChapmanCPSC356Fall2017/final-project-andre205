@@ -30,7 +30,6 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:text="@string/save"
-        android:background="@android:color/holo_blue_dark"
         android:layout_centerHorizontal="true"/>
 
 </RelativeLayout>

@@ -17,7 +17,9 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="edu.chapman.cpsc356.routegenerator.activities.RouteListActivity" >
+        <activity
+            android:name="edu.chapman.cpsc356.routegenerator.activities.RouteListActivity"
+            android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -26,10 +28,12 @@
         </activity>
         <activity
             android:name="edu.chapman.cpsc356.routegenerator.activities.RouteActivity"
-            android:parentActivityName="edu.chapman.cpsc356.routegenerator.activities.RouteListActivity" />
+            android:parentActivityName="edu.chapman.cpsc356.routegenerator.activities.RouteListActivity"
+            android:screenOrientation="portrait" />
         <activity
             android:name="edu.chapman.cpsc356.routegenerator.activities.RoutePagerActivity"
-            android:parentActivityName="edu.chapman.cpsc356.routegenerator.activities.RouteListActivity" >
+            android:parentActivityName="edu.chapman.cpsc356.routegenerator.activities.RouteListActivity"
+            android:screenOrientation="portrait" >
         </activity>
         <activity
             android:name="edu.chapman.cpsc356.routegenerator.activities.SettingsActivity"

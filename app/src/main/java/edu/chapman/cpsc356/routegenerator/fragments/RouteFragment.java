@@ -215,7 +215,7 @@ public class RouteFragment extends Fragment
                         .setPositiveButton("Delete", new DialogInterface.OnClickListener() {
 
                             public void onClick(DialogInterface dialog, int whichButton) {
-                                //button not displaying fix it
+
                                 RouteCollection.GetInstance().getRoutes().remove(r);
 
                                 Activity act = getActivity();
@@ -238,18 +238,6 @@ public class RouteFragment extends Fragment
                         })
 
                         .show();
-
-
-                // TODO: maybe show a confirmation
-
-//                RouteCollection.GetInstance().getRoutes().remove(r);
-//
-//                Activity act = getActivity();
-//
-//                if (act != null)
-//                {
-//                    act.finish();
-//                }
 
                 return true;
             default:
