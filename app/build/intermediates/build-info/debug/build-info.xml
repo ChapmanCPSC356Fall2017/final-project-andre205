@@ -5,30 +5,27 @@
     build-mode="COLD"
     density="560dpi"
     format="10"
-    ir-eligibility="CLASS_ADDED"
+    ir-eligibility="FIELD_ADDED"
     plugin-version="3.0.0"
-    timestamp="1513292717212"
+    timestamp="1513311375736"
     token="-8504640404181622204"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="356" />
+        duration="163" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="21" />
+        duration="30" />
     <task
         name="verifier"
         duration="1" />
 
     <artifact
-        location="/Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="/Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+        location="/Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
         type="SPLIT" />
 
     <build
@@ -74,8 +71,26 @@
     </build>
     <build
         build-mode="COLD"
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1513292717212"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="CLASS_ADDED"
+        timestamp="1513293305974"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
         ir-eligibility="COMPATIBLE"
-        timestamp="1513291052204"
+        timestamp="1513310417713"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
@@ -83,14 +98,11 @@
     </build>
     <build
         build-mode="COLD"
-        ir-eligibility="CLASS_ADDED"
-        timestamp="1513292717212"
+        ir-eligibility="FIELD_ADDED"
+        timestamp="1513311375736"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
-            location="/Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
+            location="/Users/tyler/Documents/ANDROID/final/BikeRouteGenerator/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
     </build>
 

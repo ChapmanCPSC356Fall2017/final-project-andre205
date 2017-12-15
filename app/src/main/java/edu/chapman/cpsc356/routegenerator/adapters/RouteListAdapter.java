@@ -1,5 +1,8 @@
 package edu.chapman.cpsc356.routegenerator.adapters;
 
+import android.app.AlertDialog;
+import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
@@ -17,11 +20,15 @@ import edu.chapman.cpsc356.routegenerator.models.RouteModel;
 public class RouteListAdapter extends RecyclerView.Adapter<RouteListAdapter.RouteViewHolder>
 {
     private final String LOGTAG = "RouteListAdapter";
+    private Context ctx;
+
 
     @Override
     public RouteViewHolder onCreateViewHolder(ViewGroup parent, int viewType)
     {
         Log.d(LOGTAG, "onCreateViewHolder()");
+
+        this.ctx = parent.getContext();
 
         LayoutInflater inflater = LayoutInflater.from(parent.getContext());
         View v = inflater.inflate(R.layout.cell_route, parent, false);
@@ -49,8 +56,41 @@ public class RouteListAdapter extends RecyclerView.Adapter<RouteListAdapter.Rout
 
     public void remove(int position)
     {
-        RouteCollection.GetInstance().remove(position);
-        notifyItemRemoved(position);
+        final int pos = position;
+
+        AlertDialog alert = new AlertDialog.Builder(ctx)
+                .setTitle("Delete Route")
+                .setMessage("Are you sure you want to delete this route?")
+                //.setIcon(R.drawable.delete)
+
+                .setPositiveButton("Delete", new DialogInterface.OnClickListener() {
+
+                    public void onClick(DialogInterface dialog, int whichButton) {
+
+
+                        RouteCollection.GetInstance().remove(pos);
+                        notifyItemRemoved(pos);
+
+                        dialog.dismiss();
+                    }
+
+                })
+
+                .setNegativeButton("cancel", new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int which) {
+
+
+                        notifyDataSetChanged();
+                        dialog.dismiss();
+
+                    }
+                })
+
+                .show();
+
+
+//        RouteCollection.GetInstance().remove(position);
+//        notifyItemRemoved(position);
     }
 
     public void swap(int firstPosition, int secondPosition)

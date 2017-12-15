@@ -1,6 +1,8 @@
 package edu.chapman.cpsc356.routegenerator.fragments;
 
 import android.app.Activity;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -203,16 +205,51 @@ public class RouteFragment extends Fragment
                 return true;
             case R.id.menu_delete_route:
 
+                final RouteModel r = this.route;
+
+                AlertDialog alert = new AlertDialog.Builder(getContext())
+                        .setTitle("Delete Route")
+                        .setMessage("Are you sure you want to delete this route?")
+                        //.setIcon(R.drawable.delete)
+
+                        .setPositiveButton("Delete", new DialogInterface.OnClickListener() {
+
+                            public void onClick(DialogInterface dialog, int whichButton) {
+                                //button not displaying fix it
+                                RouteCollection.GetInstance().getRoutes().remove(r);
+
+                                Activity act = getActivity();
+
+                                if (act != null)
+                                {
+                                    act.finish();
+                                }
+                                dialog.dismiss();
+                            }
+
+                        })
+
+                        .setNegativeButton("cancel", new DialogInterface.OnClickListener() {
+                            public void onClick(DialogInterface dialog, int which) {
+
+                                dialog.dismiss();
+
+                            }
+                        })
+
+                        .show();
+
+
                 // TODO: maybe show a confirmation
 
-                RouteCollection.GetInstance().getRoutes().remove(this.route);
-
-                Activity act = getActivity();
-
-                if (act != null)
-                {
-                    act.finish();
-                }
+//                RouteCollection.GetInstance().getRoutes().remove(r);
+//
+//                Activity act = getActivity();
+//
+//                if (act != null)
+//                {
+//                    act.finish();
+//                }
 
                 return true;
             default:

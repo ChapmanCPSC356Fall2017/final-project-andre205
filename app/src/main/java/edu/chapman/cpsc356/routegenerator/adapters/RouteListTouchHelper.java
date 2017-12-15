@@ -24,9 +24,12 @@ public class RouteListTouchHelper extends ItemTouchHelper.SimpleCallback {
 
         @Override
         public void onSwiped(RecyclerView.ViewHolder viewHolder, int direction) {
+
             //Remove item
             slAdapter.remove(viewHolder.getAdapterPosition());
+
         }
+
     }
 
 
